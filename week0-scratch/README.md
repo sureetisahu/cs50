@@ -1,4 +1,5 @@
 # Week 0 – Scratch Maze Game (THE TACO MAZE)
+![The Taco Maze](tacomaze.png)
 
 ## Project Overview
 
